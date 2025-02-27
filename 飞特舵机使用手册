@@ -1,0 +1,8 @@
+1、https://gitee.com/ftservo 官方库，调试软件
+2、原始人都能看懂的手把手教程https://waka-can.blog.csdn.net/article/details/123336844?spm=1001.2014.3001.5502   https://waka-can.blog.csdn.net/article/details/123358609?spm=1001.2014.3001.5502
+https://waka-can.blog.csdn.net/article/details/123486320?spm=1001.2014.3001.5502
+3、我自己手动做的经验步骤：
+s1：电脑下载FD调试软件（github里面有），USB将URT-1和电脑连接，再连接舵机，在电脑上面先软件调整舵机，详见https://zhuanlan.zhihu.com/p/345309655
+s2：
+
+
