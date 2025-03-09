@@ -1,5 +1,5 @@
 
-# 千万注意，该舵机及其贵，一个1000RMB，并且极度脆弱，我一小时烧了三个，使用前一定要打开自我保护功能，否则必定会坏。自我保护是不会自动打开的，可以在调试助手或写程序打开，[详见](https://www.feetechrc.com/2-how-to-decide-whether-to-turn-on-overload-protection.html)
+# 千万注意，该舵机极其贵，一个1000RMB，并且极度脆弱，我一小时烧了三个，使用前一定要打开自我保护功能，否则必定会坏。自我保护是不会自动打开的，可以在调试助手或写程序打开，[详见](https://www.feetechrc.com/2-how-to-decide-whether-to-turn-on-overload-protection.html)
 # 1、[官方库，调试软件](https://gitee.com/ftservo)
 # 2、我自己手动做的经验步骤：
 - s1：电脑下载FD调试软件（github里面有），USB将URT-1和电脑连接，再连接舵机，在电脑上面先软件调整舵机，[详见](https://zhuanlan.zhihu.com/p/345309655)
